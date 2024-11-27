@@ -56,3 +56,6 @@ footer {
   font-size: 14px;
   margin-top: 30px;
 }
+.poem strong {
+  color: rgba(70, 70, 33, 0.333);
+}
